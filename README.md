@@ -4,7 +4,7 @@ Robot
 Created on: 4/10/2013
 
 By: Jeremy Bohrer
-A robot that can circumnavigate object and solve mazes.
+A robot that can circumnavigate objects and solve mazes.
 ---
 
 Design Specs
