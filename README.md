@@ -22,4 +22,4 @@ Chassis				  - 	2wd miniQ Robot chassis
 
 Bump Sensors
 
-[![robot dualmode](https://raw.github.com/jjbskir/Robot/master/robot.jpg)](http://www.youtube.com/watch?v=XJ-DFdhXIYA)
+[![robot dualmode](https://raw.github.com/jjbskir/Robot/master/robot.jpg)](http://www.youtube.com/watch?v=LERg5yN0yjo)
