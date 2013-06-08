@@ -14,4 +14,4 @@ Chassis				- 	2wd miniQ Robot chassis
 2 Motors				- 	Micro Metal Gearmotor 50:1
 Bump Sensors
 
-[![robot dualmode](https://github.com/jjbskir/Robot/blob/master/robot.jpg)](#features)
+[![robot dualmode](https://github.com/jjbskir/Robot/robot.jpg)](#features)
